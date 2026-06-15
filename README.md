@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi 👋, I'm Anushka Saxena
 
-<!--
-**Anushkasaxena49/Anushkasaxena49** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech AI Student
 
-Here are some ideas to get you started:
+💻 Learning:
+- Python
+- DSA
+- Machine Learning
+- Data Science
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Projects:
+- Personal Finance Analyzer
+- Resume ATS
+- Smart Chatbot AI
+- Weather App
+
+📫 Reach me:
+- GitHub: Anushkasaxena49
